@@ -17,5 +17,4 @@ You will need:
 5. Create folder `obsidian`
 6. Open Terminal.app and go to the script folder (you can check your current path with `pwd`)
 6. Install 'html2markdown' (`pip3 install html2markdown`)
-7. Run script
-`python3 /Users/afadeev/Desktop/brain/thebrain2markdown.py`
+7. Run script `python3 thebrain2markdown.py`
